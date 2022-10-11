@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.dddb431c.css","mappings":"AAAA,aAEI,wBAAyB,CAEzB,eAAgB,CAHhB,WAIJ,CACA,8BAHI,kBAKJ","sources":["style.css"],"sourcesContent":[".custom-card{\n    width: 15rem;\n    border: 1px solid #a6a6a6;\n    border-radius: 10px;\n    overflow: hidden;\n}\n.custom-card-img{\n    border-radius: 10px;\n}\n"],"names":[],"sourceRoot":""}
